@@ -11,7 +11,7 @@
 
 .container {
     width: device-width;
-    height: device-height;
+    height: 100vh;
     border: 3px solid purple;
     background-color: rgb(250, 226, 205);
     border-radius: 14px;
