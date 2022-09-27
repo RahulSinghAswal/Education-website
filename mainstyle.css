@@ -16,6 +16,7 @@
     background-color: rgb(250, 226, 205);
     border-radius: 14px;
     margin: 7px;
+    align-items: center;
 }
 
 h2 {
