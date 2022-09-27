@@ -20,7 +20,7 @@
 
 h2 {
     margin: auto auto;
-    font-family: cursive;
+    font-family: serif;
     text-align: center;
 }
 
@@ -37,6 +37,7 @@ h2 {
 
 p {
     color: white;
+    text-align: center;
 }
 
 .link {
